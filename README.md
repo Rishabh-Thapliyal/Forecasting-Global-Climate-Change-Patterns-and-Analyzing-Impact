@@ -12,3 +12,5 @@ https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.txt
 
 ## Population data (Population and demography)
 https://ourworldindata.org/population-growth#explore-data-on-population-growth
+
+https://docs.google.com/document/d/10--O_P1aVTrLJfwcoGoSQQdlDQwBJkw9U0S_jaYO8kk/edit?tab=t.0
