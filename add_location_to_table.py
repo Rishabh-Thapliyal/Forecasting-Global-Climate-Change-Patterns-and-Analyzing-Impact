@@ -6,7 +6,8 @@ It can add city's information to any existing .csv
 tip: I keep the cityidx for every city. -- Harry Liu
 '''
 city_data = [
-    ["0_Global", "Global", "ALL", "ALL"],
+    ["0_Global_air", "Global_air", "ALL", "ALL"],
+    ["0_Global_water", "Global_water", "ALL", "ALL"],
     ["1_Peking", "China", "39.38 N", "116.53 E"],
     ["2_NewDelhi", "India", "28.13 N", "77.27 E"],
     ["3_Riyadh", "Saudi Arabia", "24.92 N", "46.11 E"],

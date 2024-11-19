@@ -12,7 +12,8 @@ tip: If you feel confused about some part of these codes, welcome to contact me,
 '''
 # Baseline temperatures for global and 20 cities(from global to city1, then from city1-20; from Jan to Dec)
 baseline_temps = [
-    [12.58, 12.82, 13.445, 14.32, 15.21, 15.87, 16.18, 16.06, 15.47, 14.525, 13.515, 12.805],
+    [12.93, 13.20, 13.83, 14.66, 15.47, 16.08, 16.41, 16.33, 15.75, 14.80, 13.80, 13.12],
+    [12.23, 12.44, 13.06, 13.98, 14.95, 15.66, 15.95, 15.79, 15.19, 14.25, 13.23, 12.49],
     [-4.87, -2.10, 4.85, 12.98, 19.85, 24.24, 26.29, 25.08, 20.00, 12.88, 4.45, -2.77],
     [14.37, 17.70, 23.53, 29.45, 33.53, 34.18, 30.98, 29.66, 29.28, 26.28, 20.64, 15.61],
     [13.94, 16.59, 21.49, 25.15, 30.33, 33.97, 35.31, 34.74, 31.48, 25.76, 20.57, 15.06],
@@ -36,7 +37,7 @@ baseline_temps = [
 ]
 
 # folder which contain all data
-folder_path = "./Data/Temperature"  
+folder_path = "./FinalProject/Data/Temperature"  
 
 def fetch_temperature_table(folder_path, baseline_temps):
     # Get all .txt files in the folder, sorted by filename's first integer number i.e. from 0-20, 0 is global, 1-20 is cityidx
