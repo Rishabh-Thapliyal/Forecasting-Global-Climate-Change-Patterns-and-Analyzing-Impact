@@ -1,5 +1,5 @@
 # Have a good day! 😄
-Project Proposal: https://docs.google.com/document/d/10--O_P1aVTrLJfwcoGoSQQdlDQwBJkw9U0S_jaYO8kk/edit?tab=t.0
+Project Proposal: https://docs.google.com/document/d/10--O_P1aVTrLJfwcoGoSQQdlDQwBJkw9U0S_jaYO8kk/edit?tab=t.0 <br />
 Project Presentation: https://docs.google.com/presentation/d/14XMUPii_TH3v0Kj8iJpSH7aEJ3pvQC1vr_FKxMJZj_U/edit#slide=id.g31642815efc_0_0
 
 ## Berkeley Earth data page(Global Temperature Data) - Global Monthly Averages (1850 – Recent)
