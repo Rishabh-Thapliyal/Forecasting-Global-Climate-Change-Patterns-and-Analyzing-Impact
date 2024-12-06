@@ -85,5 +85,5 @@ def load_data(start_year, end_year):
 
 if __name__ == '__main__':
 
-    # run this file from './src/eda/' location
+    # run this file from './src/code_files/' location
     print(load_data(start_year=1850, end_year=2020))
