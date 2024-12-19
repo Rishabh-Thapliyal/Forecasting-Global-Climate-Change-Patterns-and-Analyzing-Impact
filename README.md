@@ -1,6 +1,6 @@
 # Have a good day! 😄
 Project Proposal: https://docs.google.com/document/d/10--O_P1aVTrLJfwcoGoSQQdlDQwBJkw9U0S_jaYO8kk/edit?tab=t.0 <br />
-Project Presentation: https://docs.google.com/presentation/d/14XMUPii_TH3v0Kj8iJpSH7aEJ3pvQC1vr_FKxMJZj_U/edit#slide=id.g31642815efc_0_0
+Project Presentation: https://docs.google.com/presentation/d/1lxR6O2UqVBiibVzpoa5IOUeRwZFiVeMkyMn6wXnnRGQ/edit#slide=id.g250107b0fa7_0_18
 
 ## Berkeley Earth data page(Global Temperature Data) - Global Monthly Averages (1850 – Recent)
 https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Land_and_Ocean_complete.txt
